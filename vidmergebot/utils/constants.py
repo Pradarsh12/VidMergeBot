@@ -45,8 +45,8 @@ class Constants:
                     "url",
                 ),
                 (
-                    "Bots Channel",
-                    "https://t.me/DivideProjects",
+                    "Developer",
+                    "https://t.me/soonbotmaker0",
                     "url",
                 ),
             ],
